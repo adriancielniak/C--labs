@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{4939831D-F4D4-41BE-835E-8305727D0BE5}|Default">
+  <MonoDevelop.Ide.ItemProperties.game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="game/HelpClasses/WriteInfo.cs">
+    <Files>
+      <File FileName="game/Program.cs" Line="12" Column="1" />
+      <File FileName="game/Game.cs" Line="75" Column="9" />
+      <File FileName="game/Models/Hero.cs" Line="3" Column="8" />
+      <File FileName="game/HelpClasses/GetInfo.cs" Line="1" Column="1" />
+      <File FileName="game/Models/Location.cs" Line="1" Column="1" />
+      <File FileName="game/Models/EHeroClass.cs" Line="1" Column="1" />
+      <File FileName="game/Models/NonPlayerCharacter.cs" Line="7" Column="12" />
+      <File FileName="game/HelpClasses/WriteInfo.cs" Line="1" Column="1" />
+      <File FileName="game/Dialogs/Dialoga.cs" Line="1" Column="1" />
+      <File FileName="game/Dialogs/DialogPart.cs" Line="24" Column="41" />
+      <File FileName="game/Dialogs/DialogParser.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab01" expanded="True">
+            <Node name="game" expanded="True">
+              <Node name="Dialogs" expanded="True" />
+              <Node name="HelpClasses" expanded="True">
+                <Node name="WriteInfo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
