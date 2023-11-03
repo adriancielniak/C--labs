@@ -1,0 +1,14 @@
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/bin/Debug/net7.0/parliament_simulator
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/bin/Debug/net7.0/parliament_simulator.deps.json
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/bin/Debug/net7.0/parliament_simulator.runtimeconfig.json
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/bin/Debug/net7.0/parliament_simulator.dll
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/bin/Debug/net7.0/parliament_simulator.pdb
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/obj/Debug/net7.0/parliament_simulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/obj/Debug/net7.0/parliament_simulator.AssemblyInfoInputs.cache
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/obj/Debug/net7.0/parliament_simulator.AssemblyInfo.cs
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/obj/Debug/net7.0/parliament_simulator.csproj.CoreCompileInputs.cache
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/obj/Debug/net7.0/parliament_simulator.dll
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/obj/Debug/net7.0/refint/parliament_simulator.dll
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/obj/Debug/net7.0/parliament_simulator.pdb
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/obj/Debug/net7.0/parliament_simulator.genruntimeconfig.cache
+/Users/adriancielniak/Projects/parliament_simulator/parliament_simulator/obj/Debug/net7.0/ref/parliament_simulator.dll

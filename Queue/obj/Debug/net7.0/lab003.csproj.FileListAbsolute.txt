@@ -1,0 +1,14 @@
+/Users/adriancielniak/Projects/lab003/lab003/bin/Debug/net7.0/lab003
+/Users/adriancielniak/Projects/lab003/lab003/bin/Debug/net7.0/lab003.deps.json
+/Users/adriancielniak/Projects/lab003/lab003/bin/Debug/net7.0/lab003.runtimeconfig.json
+/Users/adriancielniak/Projects/lab003/lab003/bin/Debug/net7.0/lab003.dll
+/Users/adriancielniak/Projects/lab003/lab003/bin/Debug/net7.0/lab003.pdb
+/Users/adriancielniak/Projects/lab003/lab003/obj/Debug/net7.0/lab003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adriancielniak/Projects/lab003/lab003/obj/Debug/net7.0/lab003.AssemblyInfoInputs.cache
+/Users/adriancielniak/Projects/lab003/lab003/obj/Debug/net7.0/lab003.AssemblyInfo.cs
+/Users/adriancielniak/Projects/lab003/lab003/obj/Debug/net7.0/lab003.csproj.CoreCompileInputs.cache
+/Users/adriancielniak/Projects/lab003/lab003/obj/Debug/net7.0/lab003.dll
+/Users/adriancielniak/Projects/lab003/lab003/obj/Debug/net7.0/refint/lab003.dll
+/Users/adriancielniak/Projects/lab003/lab003/obj/Debug/net7.0/lab003.pdb
+/Users/adriancielniak/Projects/lab003/lab003/obj/Debug/net7.0/lab003.genruntimeconfig.cache
+/Users/adriancielniak/Projects/lab003/lab003/obj/Debug/net7.0/ref/lab003.dll
