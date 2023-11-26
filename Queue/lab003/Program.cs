@@ -24,23 +24,7 @@ class Program
 
     static void Main()
     {
-        Person person = new Person("Cristiano", "Ronaldo");
-
-        PrintPerson(person);
-
-        Change1(person);
-
-        PrintPerson(person);
-
-        Change2(person);
-
-        PrintPerson(person);
-
-        Change3(person);
-
-        PrintPerson(person);
-
-        Console.ReadKey();
+        
     }
 }
 
