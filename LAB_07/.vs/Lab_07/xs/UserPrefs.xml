@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D7554D7B-4E41-4A9E-BAD9-F8774E1D2DFB}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Factory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factory/Program.cs">
+    <Files>
+      <File FileName="BeerProcessor/BeerOrder.cs" />
+      <File FileName="Common/IOrder.cs" />
+      <File FileName="Factory/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab_07" expanded="True">
+            <Node name="BeerProcessor" expanded="True" />
+            <Node name="Common" expanded="True" />
+            <Node name="Factory" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="SandwichProcessor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
