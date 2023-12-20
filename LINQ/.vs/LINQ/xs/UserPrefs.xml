@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D6047FD9-3477-414A-98B5-A2B0B92E64C2}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQ/Cities/Cities.cs">
+    <Files>
+      <File FileName="LINQ/Program.cs" Line="10" Column="1" />
+      <File FileName="LINQ/Squares/squares.cs" Line="1" Column="1" />
+      <File FileName="LINQ/Cities/Cities.cs" Line="20" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LINQ" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LINQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

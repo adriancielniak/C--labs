@@ -1,0 +1,14 @@
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/bin/Debug/net7.0/LINQ
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/bin/Debug/net7.0/LINQ.deps.json
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/bin/Debug/net7.0/LINQ.runtimeconfig.json
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/bin/Debug/net7.0/LINQ.dll
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/bin/Debug/net7.0/LINQ.pdb
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/obj/Debug/net7.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/obj/Debug/net7.0/LINQ.AssemblyInfoInputs.cache
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/obj/Debug/net7.0/LINQ.AssemblyInfo.cs
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/obj/Debug/net7.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/obj/Debug/net7.0/LINQ.dll
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/obj/Debug/net7.0/refint/LINQ.dll
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/obj/Debug/net7.0/LINQ.pdb
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/obj/Debug/net7.0/LINQ.genruntimeconfig.cache
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LINQ/LINQ/obj/Debug/net7.0/ref/LINQ.dll
