@@ -1,0 +1,14 @@
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/bin/Debug/net7.0/LAB_06
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/bin/Debug/net7.0/LAB_06.deps.json
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/bin/Debug/net7.0/LAB_06.runtimeconfig.json
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/bin/Debug/net7.0/LAB_06.dll
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/bin/Debug/net7.0/LAB_06.pdb
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/obj/Debug/net7.0/LAB_06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/obj/Debug/net7.0/LAB_06.AssemblyInfoInputs.cache
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/obj/Debug/net7.0/LAB_06.AssemblyInfo.cs
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/obj/Debug/net7.0/LAB_06.csproj.CoreCompileInputs.cache
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/obj/Debug/net7.0/LAB_06.dll
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/obj/Debug/net7.0/refint/LAB_06.dll
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/obj/Debug/net7.0/LAB_06.pdb
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/obj/Debug/net7.0/LAB_06.genruntimeconfig.cache
+/Users/adriancielniak/Desktop/university/5sem/C#/C-Sharp-labs/LAB_06/LAB_06/obj/Debug/net7.0/ref/LAB_06.dll
